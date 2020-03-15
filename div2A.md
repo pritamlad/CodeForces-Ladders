@@ -8,13 +8,13 @@
 | 6 | [Scarborough Fair](https://codeforces.com/problemset/problem/897/A) | 700 | ✅ |
 | 7 | [Tokitsukaze and Enhancement](https://codeforces.com/problemset/problem/1191/A) | 700 | ✅ |
 | 8 | [Pens and Pencils](https://codeforces.com/problemset/problem/1244/A) | 700 | ✅  |
-| 9 | [Infinity Gauntlet](https://codeforces.com/problemset/problem/987/A) | 700 |  |
-| 10 | [Petya and Origami](https://codeforces.com/problemset/problem/1080/A) | 700 |  |
-| 11 | [The Rank](https://codeforces.com/problemset/problem/1017/A) | 700 |  |
-| 12 | [Nastya Is Reading a Book](https://codeforces.com/problemset/problem/1136/A) | 700 |  |
-| 13 | [Fingerprints](https://codeforces.com/problemset/problem/994/A) | 700 |  |
-| 14 | [Game](https://codeforces.com/problemset/problem/984/A) | 700 |  |
-| 15 | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | 800 |  |
+| 9 | [Infinity Gauntlet](https://codeforces.com/problemset/problem/987/A) | 700 |  ✅ |
+| 10 | [Petya and Origami](https://codeforces.com/problemset/problem/1080/A) | 700 |  ✅ |
+| 11 | [The Rank](https://codeforces.com/problemset/problem/1017/A) | 700 | ✅  |
+| 12 | [Nastya Is Reading a Book](https://codeforces.com/problemset/problem/1136/A) | 700 |  ✅ |
+| 13 | [Fingerprints](https://codeforces.com/problemset/problem/994/A) | 700 |  ✅ |
+| 14 | [Game](https://codeforces.com/problemset/problem/984/A) | 700 |  ✅ |
+| 15 | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | 800 | ✅ |
 | 16 | [Ehab and another construction problem](https://codeforces.com/problemset/problem/1088/A) | 800 |  |
 | 17 | [Olympiad](https://codeforces.com/problemset/problem/937/A) | 800 |  |
 | 18 | [Alex and a Rhombus](https://codeforces.com/problemset/problem/1180/A) | 800 |  |
