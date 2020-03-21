@@ -29,17 +29,17 @@
 | 27 | [Little C Loves 3 I](https://codeforces.com/problemset/problem/1047/A) | 800 | ✅  |
 | 28 | [Sasha and Sticks](https://codeforces.com/problemset/problem/832/A) | 800 | ✅  |
 | 29 | [Equation](https://codeforces.com/problemset/problem/1269/A) | 800 |  ✅ |
-| 30 | [Keanu Reeves](https://codeforces.com/problemset/problem/1189/A) | 800 |  |
-| 31 | [Equality](https://codeforces.com/problemset/problem/1038/A) | 800 |  |
-| 32 | [Changing Volume](https://codeforces.com/problemset/problem/1255/A) | 800 |  |
-| 33 | [Friends Meeting](https://codeforces.com/problemset/problem/931/A) | 800 |  |
-| 34 | [Love Triangle](https://codeforces.com/problemset/problem/939/A) | 800 |  |
-| 35 | [Arpa and a research in Mexican wave](https://codeforces.com/problemset/problem/851/A) | 800 |  |
-| 36 | [Stones](https://codeforces.com/problemset/problem/1236/A) | 800 |  |
-| 37 | [Compote](https://codeforces.com/problemset/problem/746/A) | 800 |  |
+| 30 | [Keanu Reeves](https://codeforces.com/problemset/problem/1189/A) | 800 | ✅ |
+| 31 | [Equality](https://codeforces.com/problemset/problem/1038/A) | 800 | ✅|
+| 32 | [Changing Volume](https://codeforces.com/problemset/problem/1255/A) | 800 | ✅ |
+| 33 | [Friends Meeting](https://codeforces.com/problemset/problem/931/A) | 800 | ✅ |
+| 34 | [Love Triangle](https://codeforces.com/problemset/problem/939/A) | 800 | ✅ |
+| 35 | [Arpa and a research in Mexican wave](https://codeforces.com/problemset/problem/851/A) | 800 |✅  |
+| 36 | [Stones](https://codeforces.com/problemset/problem/1236/A) | 800 | ✅ |
+| 37 | [Compote](https://codeforces.com/problemset/problem/746/A) | 800 | ✅ |
 | 38 | [Coins](https://codeforces.com/problemset/problem/1061/A) | 800 |  |
-| 39 | [Left-handers, Right-handers and Ambidexters](https://codeforces.com/problemset/problem/950/A) | 900 |  |
-| 40 | [Be Positive](https://codeforces.com/problemset/problem/1130/A) | 900 |  |
+| 39 | [Left-handers, Right-handers and Ambidexters](https://codeforces.com/problemset/problem/950/A) | 900 |✅  |
+| 40 | [Be Positive](https://codeforces.com/problemset/problem/1130/A) | 900 | ✅ |
 | 41 | [Sasha and His Trip](https://codeforces.com/problemset/problem/1113/A) | 900 |  |
 | 42 | [Ropewalkers](https://codeforces.com/problemset/problem/1185/A) | 900 |  |
 | 43 | [Sonya and Hotels](https://codeforces.com/problemset/problem/1004/A) | 900 |  |
